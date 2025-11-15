@@ -12,12 +12,11 @@ Below are selected university projects (exams / assignments) and work-related co
 
 University projects (exam reports + code)
 - Project title — short one-line description  
-  - PDF (report): [Exam_AB_final.pdf]
+  - PDF (report): [EKC_analysis.pdf](https://github.com/andreabaschiera/andreabaschiera/blob/main/EKC_analysis.pdf)
   - Code: [link to code](/path/to/code) — R / Python / VBA
 - Project title — short one-line description  
-  - PDF (report): [link to PDF](/path/to/report2.pdf)  
+  - PDF (report): [Clustering_climatehotspots]([/path/to/report2.pdf](https://github.com/andreabaschiera/andreabaschiera/blob/main/Clustering_climatehotspots.pdf))  
   - Code: [link to code](/path/to/code2)
-- (Add more entries following the same pattern: report PDF + code)
 
 Work repositories (selected code from previous positions)
 - Repository name — brief description — https://github.com/ORG/REPO-1
