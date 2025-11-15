@@ -18,14 +18,10 @@ University projects (exam reports + code)
   - PDF (report): [Clustering_climatehotspots]([/path/to/report2.pdf](https://github.com/andreabaschiera/andreabaschiera/blob/main/Clustering_climatehotspots.pdf))  
   - Code: [link to code](/path/to/code2)
 
-Work repositories (selected code from previous positions)
+Work repositories (selected excerpts from previous positions)
 - Repository name — brief description — https://github.com/ORG/REPO-1
 - Repository name — brief description — https://github.com/ORG/REPO-2
 
-How to navigate the portfolio
-- Replace each placeholder link above with the actual file/repo URL.
-- For university projects, I prefer to provide both the final PDF (exam/assignment submission) and the full analysis code (R scripts, Python notebooks or zipped folder).
-- For work projects, I link to the repository only (sensitive or proprietary parts removed where necessary).
 
 Contact
 -------
