@@ -12,7 +12,7 @@ Below are selected university projects (exams / assignments) and work-related co
 
 University projects (exam reports + code)
 - Project title — short one-line description  
-  - PDF (report): [Exam_AB_final.pdf](/path/to/report.pdf)  
+  - PDF (report): [Exam_AB_final.pdf]
   - Code: [link to code](/path/to/code) — R / Python / VBA
 - Project title — short one-line description  
   - PDF (report): [link to PDF](/path/to/report2.pdf)  
