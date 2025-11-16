@@ -18,7 +18,7 @@ University projects (exam reports (+ code))
   - PDF (report): [DPSIRmodel_analysis.pdf](https://github.com/andreabaschiera/andreabaschiera/blob/main/DPSIRmodel_analysis.pdf) — LaTeX
 
 Work repositories (selected excerpts from previous positions)
-- Repository name — brief description — https://github.com/ORG/REPO-1
+- **SLR_impacts** — analysis of sea level rise impacts at country level — [link_to_repo](https://github.com/andreabaschiera/SLR_impacts)
 - Repository name — brief description — https://github.com/ORG/REPO-2
 
 
