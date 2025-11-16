@@ -10,10 +10,10 @@ Portfolio
 University projects (exam reports + code)
 - Report, Applied Policy Evaluation — some fixed-effects models to investigate the EKC (Environmental Kuznet Curve) hypothesis
   - PDF (report): [EKC_analysis.pdf](https://github.com/andreabaschiera/andreabaschiera/blob/main/EKC_analysis.pdf)
-  - Code: [EKC_analysis_code.R]([/path/to/code](https://github.com/andreabaschiera/andreabaschiera/blob/main/EKC_analysis_code.R) — R
+  - Code: [EKC_analysis_code.R]([https://github.com/andreabaschiera/andreabaschiera/blob/main/EKC_analysis_code.R]) — R
 - Assignment, Machine Learning — short one-line description  
-  - PDF (report): [Clustering_climatehotspots.pdf]([/path/to/report2.pdf](https://github.com/andreabaschiera/andreabaschiera/blob/main/Clustering_climatehotspots.pdf))  
-  - Code: [Clustering_climatehotspots_code.ipynb]([/path/to/code2](https://github.com/andreabaschiera/andreabaschiera/blob/main/Clustering_climatehotspots_code.ipynb)) — Jupyter Notebook
+  - PDF (report): [Climatehotspots.pdf](https://github.com/andreabaschiera/andreabaschiera/blob/main/Clustering_climatehotspots.pdf)  
+  - Code: [Climatehotspots_code.ipynb](https://github.com/andreabaschiera/andreabaschiera/blob/main/Clustering_climatehotspots_code.ipynb) — Jupyter Notebook
 
 Work repositories (selected excerpts from previous positions)
 - Repository name — brief description — https://github.com/ORG/REPO-1
