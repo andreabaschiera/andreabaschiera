@@ -13,7 +13,7 @@ University projects (exam reports + code)
   - Code: [EKC_analysis_code.R](https://github.com/andreabaschiera/andreabaschiera/blob/main/EKC_analysis_code.R) — R
 - Assignment, Machine Learning — climate hotspot mapping of risk zones in Europe using clustering (K-Means)   
   - PDF (report): [Climatehotspots.pdf](https://github.com/andreabaschiera/andreabaschiera/blob/main/Climatehotspots.pdf)  
-  - Code: [Climatehotspots_code.ipynb](https://github.com/andreabaschiera/andreabaschiera/blob/main/Climatehotspots_code.ipynb) — Jupyter Notebook
+  - Code: [Climatehotspots_code.ipynb](https://github.com/andreabaschiera/andreabaschiera/blob/main/climatehotspots_code.ipynb) — Jupyter Notebook
 
 Work repositories (selected excerpts from previous positions)
 - Repository name — brief description — https://github.com/ORG/REPO-1
