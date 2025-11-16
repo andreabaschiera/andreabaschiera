@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am specialised in policy analysis and climate socio-economic modelling, and I have practical experience in data analysis, simulation and scripting. I work primarily with R, Python to build reproducible analyses, run models and automate workflows.
+I am specialised in policy analysis and climate socio-economic modelling, and I have practical experience in data analysis, simulation and scripting. I work primarily with R and Python.
 
 - 🔭 Main languages: R, Python, VBA
 - 🧰 Tools: Git, tidyverse, ggplot2, RMarkdown/Quarto, Shiny, pandas, NumPy, matplotlib, LaTeX
