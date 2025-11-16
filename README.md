@@ -7,16 +7,13 @@ I am specialised in policy analysis and climate socio-economic modelling, and I 
 
 Portfolio
 ---------
-
-Below are selected university projects (exams / assignments) and work-related code. University entries include a report (PDF) and the analysis code/notebook; work entries link to the repository.
-
 University projects (exam reports + code)
-- Project title — short one-line description  
+- Report, Applied Policy Evaluation — some fixed-effects models to investigate the EKC (Environmental Kuznet Curve) hypothesis
   - PDF (report): [EKC_analysis.pdf](https://github.com/andreabaschiera/andreabaschiera/blob/main/EKC_analysis.pdf)
-  - Code: [link to code](/path/to/code) — R / Python / VBA
-- Project title — short one-line description  
-  - PDF (report): [Clustering_climatehotspots]([/path/to/report2.pdf](https://github.com/andreabaschiera/andreabaschiera/blob/main/Clustering_climatehotspots.pdf))  
-  - Code: [link to code](/path/to/code2)
+  - Code: [EKC_analysis_code.R]([/path/to/code](https://github.com/andreabaschiera/andreabaschiera/blob/main/EKC_analysis_code.R) — R
+- Assignment, Machine Learning — short one-line description  
+  - PDF (report): [Clustering_climatehotspots.pdf]([/path/to/report2.pdf](https://github.com/andreabaschiera/andreabaschiera/blob/main/Clustering_climatehotspots.pdf))  
+  - Code: [Clustering_climatehotspots_code.ipynb]([/path/to/code2](https://github.com/andreabaschiera/andreabaschiera/blob/main/Clustering_climatehotspots_code.ipynb)) — Jupyter Notebook
 
 Work repositories (selected excerpts from previous positions)
 - Repository name — brief description — https://github.com/ORG/REPO-1
