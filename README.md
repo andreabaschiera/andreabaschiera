@@ -24,5 +24,4 @@ Work repositories (selected excerpts from previous positions)
 
 Contact
 -------
-- GitHub: https://github.com/andreabaschiera
 - Email: andrea.blusurf@gmail.com / andrea.baschiera@unive.it
