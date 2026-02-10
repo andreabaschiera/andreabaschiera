@@ -18,11 +18,11 @@ University projects (exam reports (+ code))
   - PDF (report): [DPSIRmodel_analysis.pdf](https://github.com/andreabaschiera/andreabaschiera/blob/main/DPSIRmodel_analysis.pdf) — LaTeX
 
 Work repositories (selected excerpts from previous positions)
-- [**SLR_impacts**](https://github.com/andreabaschiera/SLR_impacts) — analysis of sea level rise impacts at country level
-- [**Data-Migration-Tool**](https://github.com/andreabaschiera/Data-Migration-Tool) — automatic tool to migrate data from older to newest template
+- [**SLR_impacts**](https://github.com/andreabaschiera/SLR_impacts) — analysis of sea level rise impacts at country level — R
+- [**Data-Migration-Tool**](https://github.com/andreabaschiera/Data-Migration-Tool) — automatic tool to migrate data from older to newest template — Python
 
 Others
-- [**Mind Game**](https://github.com/Baschi464/MindGame) — (attempt to make a) digital replica of a card game
+- [**Mind Game**](https://github.com/Baschi464/MindGame) — (attempt to make a) digital replica of a card game — Python
 
 Contact
 -------
