@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I am specialised in policy analysis and climate socio-economic modelling, and I have practical experience in data analysis, simulation and scripting. I work primarily with R and Python.
+I am specialised in data and policy analysis, and climate socio-economic modelling. I work primarily with R and Python.
 
-- 🔭 Main languages: R, Python, VBA
-- 🧰 Tools: Git, tidyverse, ggplot2, RMarkdown/Quarto, Shiny, pandas, NumPy, matplotlib, LaTeX
+- 🔭 Main languages: R, Python, VBA, Javascript (just started)
+- 🧰 Tools I've used: Git, tidyverse / ggplot2 / RMarkdown-Quarto / Shiny, NumPy-pandas / matplotlib / openpyxl / Flask-fastAPI / pydantic / tkinter
 
 Portfolio
 ---------
@@ -19,7 +19,7 @@ University projects (exam reports (+ code))
 
 Work repositories (selected excerpts from previous positions)
 - [**SLR_impacts**](https://github.com/andreabaschiera/SLR_impacts) — analysis of sea level rise impacts at country level — R
-- [**Data-Migration-Tool**](https://github.com/andreabaschiera/Data-Migration-Tool) — automatic tool to migrate data from older to newest template — Python
+- [**Data-Migration-Tool**](https://github.com/EFRAG-EU/Digital-Template-Data-Migration-Tool) — automatic tool to migrate data from older to newest template — Python
 
 Others
 - [**Mind Game**](https://github.com/Baschi464/MindGame) — (attempt to make a) digital replica of a card game — Python
