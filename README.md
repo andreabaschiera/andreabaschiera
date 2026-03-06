@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-I am specialised in data and policy analysis, and climate socio-economic modelling. I work primarily with R and Python.
-
-- 🔭 Main languages: R, Python, VBA, Javascript (just started)
-- 🧰 Tools I've used: Git, tidyverse / ggplot2 / RMarkdown-Quarto / Shiny, NumPy-pandas / matplotlib / openpyxl / Flask-fastAPI / pydantic / tkinter
+I am specialised in data and policy analysis, and climate socio-economic modelling. I work primarily with R and Python, and I have started learning Javascript.
+- 🧰 Tools I've used: Git, tidyverse / ggplot2 / RMarkdown-Quarto / Shiny / sf-terra-raster, NumPy-pandas / matplotlib / openpyxl / Flask-fastAPI / pydantic / tkinter / netCDF4, GAMS / Gempack
 
 Portfolio
 ---------
