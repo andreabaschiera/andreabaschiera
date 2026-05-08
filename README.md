@@ -16,8 +16,6 @@ University projects (exam reports (+ code))
   - PDF (report): [DPSIRmodel_analysis.pdf](https://github.com/andreabaschiera/andreabaschiera/blob/main/DPSIRmodel_analysis.pdf) — LaTeX
 - **Exam**, Domestic and International Climate Policies — cross-border spillovers of the EU CBAM and the US IRA
   - PDF (paper): [Spillovers_IRA_CBAM](https://github.com/andreabaschiera/andreabaschiera/blob/main/AB%20Paper2%20Climate%20and%20Trade%2C%20Spillovers%2C%20IRA%20and%20CBAM.pdf)
-- **Dissertation**, Transformational climate clubs for steel decarbonisation
-  - PDF: [Dissertation_climateclubs_steel](https://github.com/andreabaschiera/andreabaschiera/blob/main/Dissertation_climateclubs_steel.pdf)
 
 Work repositories (selected excerpts from previous positions)
 - [**SLR_impacts**](https://github.com/andreabaschiera/SLR_impacts) — analysis of sea level rise impacts at country level — R
