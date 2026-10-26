@@ -20,6 +20,7 @@ University projects (exam reports (+ code))
 Work repositories (selected excerpts from previous positions)
 - [**SLR_impacts**](https://github.com/andreabaschiera/SLR_impacts) — analysis of sea level rise impacts at country level — R
 - [**Data-Migration-Tool**](https://github.com/EFRAG-EU/Digital-Template-Data-Migration-Tool) — automatic tool to migrate data from older to newest template — Python
+- [**Word-Tagging-Tool**](https://github.com/andreabaschiera/Word-TaggingTool) - Word add-in that mocks an XBRL tagging tool, using the Revised ESRS Taxonomy - Typescript
 
 Others
 - [**OrbLCA**](https://github.com/martinabars/orbLCA-SIX) — ACHIEVED challenge, tool for integrating space debris into openLCA
